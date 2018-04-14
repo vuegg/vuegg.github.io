@@ -6,7 +6,7 @@ Help me make vuegg grow!
 
 </br>
 
-### Current state & history
+### History & current state
 
 The project was born as a sandbox for me to get started on the [vue](https://github.com/vuejs/vue) world, in fact its ~~un~~original name was vuexample (*very unique*, I thought at the time).
 
