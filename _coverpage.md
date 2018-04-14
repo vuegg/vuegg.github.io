@@ -2,13 +2,11 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://vuegg.now.sh" target="_blank">
-    <img width="250" src="https://vuegg.now.sh/static/vuegg-fam.svg">
-  </a>
-</p>
+<a href="https://vuegg.now.sh/" target="_blank" title="Go to Vuegg">
+  <img width="250" src="/static/vuegg-fam.svg">
+</a>
 
-# vuegg
+# [vuegg](https://vuegg.now.sh/)
 
 > vuejs GUI generator
 
@@ -16,6 +14,6 @@
 
 
 [Get Started](#about-vuegg)
-[Vuegg App ✏](https://vuegg.now.sh)
+[Go to Vuegg ✏](https://vuegg.now.sh/)
 
 ![color](#eeeeee)
