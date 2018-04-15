@@ -11,7 +11,7 @@
 * [Vuejs](https://github.com/vuejs/vue) sources generation (download .zip)
 * Connect with GitHub (save/load vuegg projects)
 * Local persistence to save the work in progress
-* ... more to come with time
+* ... [more to come](https://github.com/vuegg/vuegg#roadmap) with time
 
 </br>
 
@@ -34,22 +34,3 @@
 
 ### Delete
 * **Delete [or Backspace]**: Deletes selection
-
-</br>
-
-## Roadmap
-
-Off the top of my head, I foresee the following features to be developed for the next releases:
-
-- [ ] Hold shift to maintain aspect ratio on manual resize
-- [ ] Ability to zoom-in / zoom-out in the editor
-- [ ] Allow the insertion of raw CSS rules (expert mode)
-  - [ ] Identify possible risks
-- [ ] Add extra styles controls
-  - [ ] BoxShadow
-  - [ ] Overflow
-  - [ ] TextOverflow
-- [ ] Manage creation/edition of custom components
-  - [ ] Transition to custom component (group/ungroup)
-  - [ ] Implement custom component editor view
-- [ ] Implement tree navigator to visualize page structure
