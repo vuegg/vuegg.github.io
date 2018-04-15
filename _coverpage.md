@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-<br/>
-
 <a href="https://vuegg.now.sh/" target="_blank" title="Go to Vuegg">
   <img width="250" src="/static/vuegg-fam.svg">
 </a>
